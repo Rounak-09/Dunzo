@@ -59,3 +59,5 @@ When you click on ok button you will be redirected to the receipt page where you
 That's all. Thank you.
 
 Live project link - https://stirring-mandazi-87d93f.netlify.app/
+
+Project presentation video - https://drive.google.com/file/d/1PYQ_S90wm8KRFOEAnZ3b0MFXO_zh69qF/view?usp=sharing
