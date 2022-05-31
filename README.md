@@ -57,3 +57,5 @@ When you enter the correct otp you will receive an alert message to down the rec
 When you click on ok button you will be redirected to the receipt page where you will be able to see the items you ordered, the quantity and the price of each item.
 
 That's all. Thank you.
+
+Live project link - https://stirring-mandazi-87d93f.netlify.app/
